@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L] 
+
+
+#RewriteEngine On
+#RewriteCond %{SERVER_PORT} !^443$
+#RewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+
+# Use PHP56 Single php.ini as default
+AddHandler application/x-httpd-php56s .php

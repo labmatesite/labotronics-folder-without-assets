@@ -1,0 +1,172 @@
+[06-Aug-2018 15:29:36 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[06-Aug-2018 15:42:56 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[06-Aug-2018 15:42:56 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[06-Aug-2018 15:42:56 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[06-Aug-2018 15:42:56 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[06-Aug-2018 15:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[06-Aug-2018 15:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[06-Aug-2018 15:51:38 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[06-Aug-2018 15:51:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[06-Aug-2018 04:41:45 America/Denver] PHP Warning:  include(admin_menu.php): failed to open stream: No such file or directory in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[06-Aug-2018 04:41:45 America/Denver] PHP Warning:  include(): Failed opening 'admin_menu.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[06-Aug-2018 16:13:23 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[06-Aug-2018 16:13:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[06-Aug-2018 16:18:14 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[06-Aug-2018 16:18:14 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[06-Aug-2018 17:46:23 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[06-Aug-2018 17:46:23 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[06-Aug-2018 17:46:23 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[06-Aug-2018 17:46:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[06-Aug-2018 17:54:55 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[06-Aug-2018 17:54:55 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[06-Aug-2018 17:54:55 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[06-Aug-2018 17:54:55 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Aug-2018 09:08:35 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Aug-2018 09:08:36 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Aug-2018 09:08:36 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Aug-2018 09:08:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Aug-2018 11:48:14 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Aug-2018 11:48:14 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Aug-2018 11:48:14 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Aug-2018 11:48:14 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Aug-2018 11:48:31 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Aug-2018 11:48:31 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Aug-2018 11:48:31 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Aug-2018 11:48:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Aug-2018 12:08:26 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[07-Aug-2018 12:08:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[07-Aug-2018 12:13:09 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[07-Aug-2018 12:13:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[07-Aug-2018 12:15:40 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[07-Aug-2018 12:15:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[07-Aug-2018 12:44:47 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Aug-2018 12:44:47 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Aug-2018 12:44:47 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Aug-2018 12:44:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Aug-2018 12:53:48 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[07-Aug-2018 12:53:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[13-Aug-2018 14:54:57 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[13-Aug-2018 14:54:57 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[13-Aug-2018 14:54:57 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[13-Aug-2018 14:54:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[13-Aug-2018 16:55:31 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[16-Aug-2018 16:53:09 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[16-Aug-2018 17:30:14 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[16-Aug-2018 17:30:14 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[16-Aug-2018 17:30:14 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[16-Aug-2018 17:30:14 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[16-Aug-2018 17:36:28 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[16-Aug-2018 17:36:28 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[16-Aug-2018 17:37:47 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[16-Aug-2018 17:37:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[16-Aug-2018 17:40:29 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[16-Aug-2018 17:40:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[05-Sep-2018 17:51:50 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[05-Sep-2018 17:52:07 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[05-Sep-2018 17:52:07 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[05-Sep-2018 17:52:07 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[05-Sep-2018 17:52:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[06-Sep-2018 09:18:33 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[06-Sep-2018 09:18:33 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[06-Sep-2018 09:18:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[06-Sep-2018 09:18:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[06-Sep-2018 15:29:18 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[06-Sep-2018 15:29:18 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[06-Sep-2018 15:29:18 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[06-Sep-2018 15:29:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[06-Sep-2018 15:36:39 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[06-Sep-2018 15:38:07 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[06-Sep-2018 15:38:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[07-Sep-2018 09:25:05 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[07-Sep-2018 11:09:46 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[07-Sep-2018 11:10:58 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 11:10:58 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 11:10:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 11:10:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Sep-2018 14:57:32 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 14:57:32 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 14:57:32 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 14:57:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Sep-2018 15:04:07 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 15:04:07 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 15:04:07 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 15:04:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Sep-2018 15:04:19 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 15:04:19 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 15:04:19 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 15:04:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Sep-2018 15:13:35 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 15:13:35 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 15:13:35 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 15:13:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Sep-2018 15:17:05 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 15:17:05 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 15:17:05 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 15:17:05 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[07-Sep-2018 16:35:00 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[07-Sep-2018 16:35:00 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[07-Sep-2018 16:35:00 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[07-Sep-2018 16:35:00 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[08-Sep-2018 10:18:32 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[08-Sep-2018 14:17:23 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[08-Sep-2018 14:17:23 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[08-Sep-2018 14:17:23 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[08-Sep-2018 14:17:23 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[08-Sep-2018 15:15:04 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[08-Sep-2018 15:15:04 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[08-Sep-2018 15:15:04 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[08-Sep-2018 15:15:04 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[10-Sep-2018 09:52:29 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[10-Sep-2018 15:02:27 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[10-Sep-2018 15:02:27 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[10-Sep-2018 15:02:27 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[10-Sep-2018 15:02:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[11-Sep-2018 17:02:21 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[12-Sep-2018 10:30:43 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[14-Sep-2018 09:34:50 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[14-Sep-2018 11:06:11 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 11:06:11 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 11:06:11 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 11:06:11 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[14-Sep-2018 11:06:38 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 11:06:38 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 11:06:38 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 11:06:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[14-Sep-2018 11:07:06 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 11:07:06 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 11:07:06 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 11:07:06 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[14-Sep-2018 11:40:16 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 11:40:16 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 11:40:16 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 11:40:16 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[14-Sep-2018 14:12:48 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 14:12:48 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 14:12:48 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 14:12:48 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[14-Sep-2018 14:22:26 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 14:22:26 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 14:22:26 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 14:22:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[14-Sep-2018 14:31:58 Asia/Calcutta] PHP Notice:  Undefined index: user_type in /home1/jiotronc/public_html/labotronics.com/quotemaker/home.php on line 53
+[14-Sep-2018 03:02:25 America/Denver] PHP Warning:  include(admin_menu.php): failed to open stream: No such file or directory in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[14-Sep-2018 03:02:25 America/Denver] PHP Warning:  include(): Failed opening 'admin_menu.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[14-Sep-2018 14:34:39 Asia/Kolkata] PHP Notice:  Undefined variable: qt_refid in /home1/jiotronc/public_html/labotronics.com/quotemaker/editquoteaction.php on line 303
+[14-Sep-2018 03:06:34 America/Denver] PHP Warning:  include(admin_menu.php): failed to open stream: No such file or directory in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[14-Sep-2018 03:06:34 America/Denver] PHP Warning:  include(): Failed opening 'admin_menu.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[14-Sep-2018 14:42:39 Asia/Kolkata] PHP Notice:  Undefined variable: qt_refid in /home1/jiotronc/public_html/labotronics.com/quotemaker/editquoteaction.php on line 303
+[14-Sep-2018 04:31:16 America/Denver] PHP Warning:  include(admin_menu.php): failed to open stream: No such file or directory in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[14-Sep-2018 04:31:16 America/Denver] PHP Warning:  include(): Failed opening 'admin_menu.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/jiotronc/public_html/labotronics.com/quotemaker/view_quotedetail.php on line 231
+[14-Sep-2018 16:11:44 Asia/Kolkata] PHP Notice:  Undefined variable: qt_refid in /home1/jiotronc/public_html/labotronics.com/quotemaker/editquoteaction.php on line 303
+[14-Sep-2018 16:12:47 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[14-Sep-2018 16:12:47 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[14-Sep-2018 16:23:09 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[14-Sep-2018 16:23:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[14-Sep-2018 17:49:12 Asia/Calcutta] PHP Notice:  Undefined variable: row_ad in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 200
+[14-Sep-2018 17:49:12 Asia/Calcutta] PHP Notice:  Undefined variable: username in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 201
+[14-Sep-2018 17:49:12 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 205
+[14-Sep-2018 17:49:12 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/create_quote.php on line 206
+[15-Sep-2018 09:52:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[15-Sep-2018 09:52:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282
+[15-Sep-2018 09:52:50 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 281
+[15-Sep-2018 09:52:50 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/jiotronc/public_html/labotronics.com/quotemaker/sendemailwithpdf.php on line 282

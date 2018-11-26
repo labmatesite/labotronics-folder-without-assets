@@ -1,0 +1,8 @@
+User-agent: *
+Allow : /
+Allow :  http://www.labotronics.com/assets/images/
+Sitemap: http://www.labotronics.com/sitemap.xml
+Sitemap: http://www.labotronics.com/image-sitemap.xml
+Sitemap: http://www.labotronics.com/rss.xml
+Disallow: /admin
+Disallow: /quotemaker
